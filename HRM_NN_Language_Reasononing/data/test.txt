@@ -1,0 +1,5 @@
+The sun rises in the east.
+Water boils at 100 degrees Celsius.
+If A then B. A is true. Therefore B is true.
+Machine learning requires data.
+Paris is the capital of France.

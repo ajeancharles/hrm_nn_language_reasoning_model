@@ -1,0 +1,26 @@
+# config/train_config.yaml - Training-specific configuration
+extends: "hrm_config.yaml"
+
+system:
+  mode: "training"
+
+training:
+  data:
+    batch_size: 16  # Smaller for training
+    shuffle: true
+    num_workers: 4
+    
+  phases:
+    layerwise_pretraining:
+      epochs_per_layer: 20  # More epochs for training
+      
+  early_stopping:
+    enabled: true
+    patience: 5
+    min_delta: 0.001
+    
+  # Distributed training
+  distributed:
+    enabled: false
+    backend: "nccl"
+    world_size: 1

@@ -1,0 +1,20 @@
+# config/inference_config.yaml - Inference-specific configuration  
+extends: "hrm_config.yaml"
+
+system:
+  mode: "inference"
+
+model:
+  load_path: "models/hrm_best_model.pt"
+  
+inference:
+  batch_size: 1
+  interactive: true
+  cache_results: true
+  
+# API specific settings
+api:
+  host: "localhost"
+  port: 5000
+  cors_enabled: true
+  rate_limit: 100  # requests per minute
