@@ -1,0 +1,51 @@
+filename,company,form_type,date
+sec_filing_001.txt,Adobe Inc.,DEF 14A,2025-08-26
+sec_filing_002.txt,Meta Platforms Inc.,DEF 14A,2025-08-26
+sec_filing_003.txt,Alphabet Inc.,10-Q,2025-08-26
+sec_filing_004.txt,Adobe Inc.,8-K,2025-08-26
+sec_filing_005.txt,Oracle Corporation,10-K,2025-08-26
+sec_filing_006.txt,Adobe Inc.,8-K,2025-08-26
+sec_filing_007.txt,Adobe Inc.,10-K,2025-08-26
+sec_filing_008.txt,Oracle Corporation,8-K,2025-08-26
+sec_filing_009.txt,Tesla Inc.,10-Q,2025-08-26
+sec_filing_010.txt,Oracle Corporation,DEF 14A,2025-08-26
+sec_filing_011.txt,Meta Platforms Inc.,DEF 14A,2025-08-26
+sec_filing_012.txt,Netflix Inc.,10-K,2025-08-26
+sec_filing_013.txt,Alphabet Inc.,8-K,2025-08-26
+sec_filing_014.txt,Alphabet Inc.,DEF 14A,2025-08-26
+sec_filing_015.txt,Amazon.com Inc.,8-K,2025-08-26
+sec_filing_016.txt,Apple Inc.,10-Q,2025-08-26
+sec_filing_017.txt,Microsoft Corporation,DEF 14A,2025-08-26
+sec_filing_018.txt,Apple Inc.,10-K,2025-08-26
+sec_filing_019.txt,Salesforce Inc.,10-K,2025-08-26
+sec_filing_020.txt,Netflix Inc.,10-K,2025-08-26
+sec_filing_021.txt,Meta Platforms Inc.,8-K,2025-08-26
+sec_filing_022.txt,Salesforce Inc.,DEF 14A,2025-08-26
+sec_filing_023.txt,Amazon.com Inc.,10-K,2025-08-26
+sec_filing_024.txt,Netflix Inc.,DEF 14A,2025-08-26
+sec_filing_025.txt,Meta Platforms Inc.,10-Q,2025-08-26
+sec_filing_026.txt,Apple Inc.,DEF 14A,2025-08-26
+sec_filing_027.txt,Alphabet Inc.,8-K,2025-08-26
+sec_filing_028.txt,Adobe Inc.,8-K,2025-08-26
+sec_filing_029.txt,Amazon.com Inc.,10-Q,2025-08-26
+sec_filing_030.txt,Adobe Inc.,10-Q,2025-08-26
+sec_filing_031.txt,Alphabet Inc.,10-Q,2025-08-26
+sec_filing_032.txt,Salesforce Inc.,10-K,2025-08-26
+sec_filing_033.txt,Adobe Inc.,8-K,2025-08-26
+sec_filing_034.txt,Alphabet Inc.,DEF 14A,2025-08-26
+sec_filing_035.txt,Alphabet Inc.,10-Q,2025-08-26
+sec_filing_036.txt,Amazon.com Inc.,10-Q,2025-08-26
+sec_filing_037.txt,Alphabet Inc.,DEF 14A,2025-08-26
+sec_filing_038.txt,Amazon.com Inc.,8-K,2025-08-26
+sec_filing_039.txt,Adobe Inc.,10-Q,2025-08-26
+sec_filing_040.txt,Tesla Inc.,8-K,2025-08-26
+sec_filing_041.txt,Alphabet Inc.,10-K,2025-08-26
+sec_filing_042.txt,Apple Inc.,8-K,2025-08-26
+sec_filing_043.txt,Salesforce Inc.,DEF 14A,2025-08-26
+sec_filing_044.txt,Apple Inc.,8-K,2025-08-26
+sec_filing_045.txt,Alphabet Inc.,DEF 14A,2025-08-26
+sec_filing_046.txt,Salesforce Inc.,10-K,2025-08-26
+sec_filing_047.txt,Apple Inc.,10-Q,2025-08-26
+sec_filing_048.txt,Meta Platforms Inc.,10-K,2025-08-26
+sec_filing_049.txt,Salesforce Inc.,10-K,2025-08-26
+sec_filing_050.txt,Adobe Inc.,10-Q,2025-08-26
