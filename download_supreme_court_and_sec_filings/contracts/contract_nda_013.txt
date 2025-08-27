@@ -1,0 +1,46 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into on August 26, 2025 between 
+Company A 13 ("Disclosing Party") and Company B 13 ("Receiving Party").
+
+WHEREAS, the parties wish to explore potential business opportunities;
+WHEREAS, such discussions may involve disclosure of confidential information;
+
+NOW, THEREFORE, the parties agree as follows:
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+   "Confidential Information" means any proprietary information, technical data, 
+   trade secrets, or other information disclosed by Disclosing Party.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+   Receiving Party agrees to:
+   - Hold all Confidential Information in strict confidence
+   - Use Confidential Information solely for evaluation purposes
+   - Not disclose to any third parties without written consent
+   - Return all materials upon request
+
+3. EXCEPTIONS
+   This Agreement does not apply to information that:
+   - Is publicly available through no breach of this Agreement
+   - Was known prior to disclosure
+   - Is independently developed without use of Confidential Information
+
+4. TERM
+   This Agreement shall remain in effect for three (3) years from the date hereof.
+
+5. REMEDIES
+   Receiving Party acknowledges that breach would cause irreparable harm and 
+   agrees that Disclosing Party shall be entitled to injunctive relief.
+
+6. GOVERNING LAW
+   This Agreement shall be governed by California law.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+Company A 13                        Company B 13
+
+By: _________________            By: _________________
+    Name: [Name]                     Name: [Name]
+    Title: [Title]                   Title: [Title]
+
+Date: August 26, 2025                     Date: August 26, 2025

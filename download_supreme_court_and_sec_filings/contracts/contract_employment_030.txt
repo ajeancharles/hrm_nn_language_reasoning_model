@@ -1,0 +1,58 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on August 26, 2025 between 
+TechCorp Inc., a Delaware corporation ("Company"), and Employee 30 ("Employee").
+
+WHEREAS, Company desires to employ Employee in the position of Software Engineer;
+WHEREAS, Employee agrees to perform services for Company under the terms herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, 
+the parties agree as follows:
+
+1. EMPLOYMENT AND DUTIES
+   Employee shall serve as Software Engineer and shall perform duties including:
+   - Software development and coding
+   - Code review and testing
+   - Collaboration with development team
+   - Documentation and maintenance
+
+2. COMPENSATION
+   Company shall pay Employee an annual salary of $120,000, payable in accordance 
+   with Company's regular payroll practices.
+
+3. BENEFITS
+   Employee shall be eligible for:
+   - Health insurance coverage
+   - 401(k) retirement plan participation
+   - Paid time off according to Company policy
+   - Professional development opportunities
+
+4. CONFIDENTIALITY
+   Employee acknowledges access to confidential information and agrees to maintain 
+   strict confidentiality both during and after employment.
+
+5. INTELLECTUAL PROPERTY
+   All work product developed during employment shall be owned by Company.
+   Employee assigns all rights in such work product to Company.
+
+6. TERM AND TERMINATION
+   Employment is at-will and may be terminated by either party with two weeks notice.
+   Upon termination, Employee shall return all Company property.
+
+7. NON-COMPETE
+   For twelve months after termination, Employee shall not engage in competing 
+   business activities within the same geographic market.
+
+8. GOVERNING LAW
+   This Agreement shall be governed by Delaware law.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+COMPANY:                          EMPLOYEE:
+
+TechCorp Inc.                     Employee 30
+
+By: _________________            _________________
+    Chief Executive Officer       Employee
+
+Date: August 26, 2025                     Date: August 26, 2025
