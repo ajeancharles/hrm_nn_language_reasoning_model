@@ -1,0 +1,7 @@
+openai
+chromadb
+psycopg
+pgvector
+SQLAlchemy
+sentence-transformers
+PyYAML
