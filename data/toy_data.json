@@ -1,0 +1,53 @@
+[
+  {
+    "doc_id": "doc_001",
+    "paragraphs": [
+      {
+        "para_id": "p_001",
+        "sentences": [
+          "The quick brown fox jumps over the lazy dog.",
+          "This sentence is a pangram."
+        ]
+      },
+      {
+        "para_id": "p_002",
+        "sentences": [
+          "Hierarchical models process data in levels.",
+          "This can help with understanding context.",
+          "We will test this idea."
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_002",
+    "paragraphs": [
+      {
+        "para_id": "p_003",
+        "sentences": [
+          "Apples and oranges are fruits.",
+          "They grow on trees."
+        ]
+      },
+      {
+        "para_id": "p_004",
+        "sentences": [
+          "Our toy dataset is very small.",
+          "It is only for demonstration purposes."
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_003",
+    "paragraphs": [
+      {
+        "para_id": "p_005",
+        "sentences": [
+          "Training a neural network requires data.",
+          "And a lot of computation."
+        ]
+      }
+    ]
+  }
+]
